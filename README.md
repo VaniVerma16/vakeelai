@@ -43,6 +43,3 @@ To use VakeelAI, follow these steps:
 1. Clone the repository and set up dependencies.
 2. Configure API endpoints with the provided backend links.
 3. Deploy the application and start analyzing contracts instantly.
-
-## Contact & Support
-For any queries or support, reach out via the GitHub repository or the official website.
