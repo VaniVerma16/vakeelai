@@ -1,0 +1,20 @@
+{
+  "legal_rules": [
+    {
+      "law_id": "GENER-001",
+      "category": "General Law",
+      "law_text": "Under the The Vice-Presidents Pension Act, 1997 (VicePresidentAct), referring to Section 1, Section 2, Section 2(1A), Section 2(2), Section 3(a), Section 3(b), Section 3(c), Section 4."
+    },
+    
+    {
+      "law_id": "GENER-015",
+      "category": "General Law",
+      "law_text": "Under the The Vice-President\u2019s Pension (Amendment) Act, 2008 (VPPA Amendment Act, 2008), referring to Section 6."
+    },
+    {
+      "law_id": "GENER-016",
+      "category": "General Law",
+      "law_text": "Under the Central Act (NA), referring to Section not specified."
+    }
+  ]
+}
