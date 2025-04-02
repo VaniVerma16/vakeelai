@@ -37,6 +37,8 @@ VakeelAI is powered by multiple backend services:
 VakeelAI is built with integrations from other repositories:
 - [Legal Scraper Repository](https://github.com/bhumitgoyal/legal-scrapper)
 - [Text Processing (Mistral)](https://github.com/bhumitgoyal/mistral-new)
+- Legal Scraper scraps the MHA website and extracts relevant laws.
+  
 
 ## Getting Started
 To use VakeelAI, follow these steps:
