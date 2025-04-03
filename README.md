@@ -1,7 +1,7 @@
 # VakeelAI
 
 ## Overview
-VakeelAI is an AI-powered contract drafting and analysis tool designed to make legal services affordable, efficient, and accessible for small businesses and individuals. It enables users to generate, review, and refine contracts instantly—without the need for expensive legal fees.
+VakeelAI is an AI-powered legal assistant designed to make legal services affordable, efficient, and accessible for small businesses and individuals. It enables users to generate, review, and refine contracts instantly—without the need for expensive legal fees.
 
 ## Problem Statement
 Legal services are often expensive, slow, and inaccessible, particularly for small businesses. Key issues include:
